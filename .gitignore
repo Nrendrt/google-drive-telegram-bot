@@ -1,0 +1,8 @@
+venv/
+downloads/
+data/
+log.txt
+*.session
+*.session-journal
+__pycache__/
+*.pyc
